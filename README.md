@@ -1,6 +1,9 @@
 # Updated Userscript of fakkura's Steamify
 It opens Steam related links in the Steam client.
+
 The original Userscript for Steamify was last updated 2 years ago and I ran into issues running the script.
+
+
 Original project: https://github.com/fakkura/Steamify
 Original userscript: https://github.com/BierArtworkDesign/fakkuraSteamifyUserscript
 

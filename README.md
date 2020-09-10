@@ -5,6 +5,7 @@ The original Userscript for Steamify was last updated 2 years ago and I ran into
 
 
 Original project: https://github.com/fakkura/Steamify
+
 Original userscript: https://github.com/BierArtworkDesign/fakkuraSteamifyUserscript
 
 ## Install
